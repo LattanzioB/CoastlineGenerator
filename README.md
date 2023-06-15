@@ -9,6 +9,7 @@ There are multiple ways to run a jupiter notebook, I will give you one.
 2. Download Anaconda. https://www.anaconda.com/download/ (You may have to restart your pc after)
 
 (Excecute the following commands in a terminal) 
+
 3. Create a conda enviroment. 
 
       conda create --name CG
