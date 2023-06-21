@@ -30,5 +30,5 @@ There are multiple ways to run a jupiter notebook, I will give you one.
 
       jupyter notebook **FILEPATH**
       
-Now you should be able to navigate through the notebook.
-        
+Now you should be able to navigate through the notebook and look up for the rest of the instruccions inside it.
+
