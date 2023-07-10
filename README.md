@@ -28,7 +28,7 @@ There are multiple ways to run a jupiter notebook, I will give you one.
       
 7. Open the notebook
 
-      jupyter notebook **FILEPATH**
+      jupyter notebook **FILEPATH** (../coastlinecellsgenerator.ipynb)
       
 Now you should be able to navigate through the notebook and look up for the rest of the instruccions inside it.
 
