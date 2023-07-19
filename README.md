@@ -34,9 +34,5 @@ Now you should be able to navigate through the notebook and look up for the rest
 
 
 
-One of the instructions in the notebook uses the geometry ID. To get it I recommend using an external tool like JOSM. (https://josm.openstreetmap.de/)
-This visual tool will allow you to load the data frame and navigate through it like a map until you find the geometric object you need, find the description and copy the 'gid'.
-
-![image](https://github.com/LattanzioB/CoastlineGenerator/assets/54457043/a44bd286-6899-4936-94b3-3f1e44387d7f)
 
 
